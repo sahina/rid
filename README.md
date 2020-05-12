@@ -40,6 +40,10 @@ And `rid` of a web user account.
 rid:app:iam:global:1234:uid/1234
 ```
 
+## Tests
+
+`cargo test`
+
 
 ## API
 
